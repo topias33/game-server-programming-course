@@ -11,3 +11,7 @@ gspc.zip also contains the server files for battleships game
 battleships.zip is the unity project
 
 you will also need a mongodb with two collections: "players" and "games"
+
+Build.zip has the latest build of the project
+
+Youtube video: https://youtu.be/aW6pViAZbvI
