@@ -9,3 +9,5 @@ gspc.zip includes following assignemts:
 gspc.zip also contains the server files for battleships game
   
 battleships.zip is the unity project
+
+you will also need a mongodb with two collections: "players" and "games"
